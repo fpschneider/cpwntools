@@ -1,3 +1,15 @@
+# ⚠️ Project Status: Abandoned
+This project was originally developed in 2019 when I was still interested in writing binary exploits. However, please note that this repository is no longer actively maintained and may not reflect current best practices, technologies, or standards.
+
+I wish to keep it because I believe it is a **beautiful piece of code** that leverages some lesser-known tricks within C semantics. I hope it can provide valuable insights to others.
+
+**No Updates**: There are no planned updates or further development for this project.
+
+**No Support**: Issues and pull requests will not be addressed.
+
+**Use at Your Own Risk**: While the code is available for reference or use, it may contain outdated dependencies or vulnerabilities.
+If you find the project useful, feel free to fork it and adapt it to your needs.
+
 # cpwntools
 <img src="cpwnlogo.png" alt="drawing" width="200" heigt="200"/>
 
