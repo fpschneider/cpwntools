@@ -1,3 +1,11 @@
+/* Copyright (c) 2018 Fabian Schneider */
+/* See LICENSE for licensing information */
+
+/* ***********************************************************
+ * NAME: stdpwn.c
+ * PURPOSE: Implement standard functions
+ *************************************************************/
+
 #include <stdint.h>
 #include <inttypes.h>
 #include <stdio.h>

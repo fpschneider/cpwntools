@@ -1,4 +1,4 @@
-/* Copyright (c) 2018 Nequ4tion */
+/* Copyright (c) 2018 Fabian Schneider */
 /* See LICENSE for licensing information */
 
 /* ***********************************************************
